@@ -1,0 +1,11 @@
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\bin\Debug\net8.0\IMSClassLib.deps.json
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\bin\Debug\net8.0\IMSClassLib.dll
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\bin\Debug\net8.0\IMSClassLib.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\IMSClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\IMSClassLib.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\IMSClassLib.AssemblyInfo.cs
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\IMSClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\IMSClassLib.dll
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\refint\IMSClassLib.dll
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\IMSClassLib.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\InventoryManagementSystem\IMSClassLib\obj\Debug\net8.0\ref\IMSClassLib.dll

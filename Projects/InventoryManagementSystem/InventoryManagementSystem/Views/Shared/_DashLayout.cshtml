@@ -1,0 +1,75 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{ var userRole = HttpContextAccessor.HttpContext.Session.GetInt32("UserRole"); }
+
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - InventoryManagementSystem</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/InventoryManagementSystem.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body class="overflow-hidden">
+    <div class="d-flex align-items-start justify-content-start col-12 w-100 m-0 p-0 overflow-hidden" style="width: 100vw;">
+        <aside class="col-2 text-decoration-none bg-dark vh-100 d-flex flex-column p-3 justify-content-start">
+            <h2 class="fw-bold text-light text-center p-3">IMS</h2>
+            <nav>
+                <ul class="list-group bg-none gap-3">
+                    <li class="list-group-item bg-transparent">
+                        <a asp-controller="Dashboard" asp-action="Index" class="text-decoration-none text-light d-block">Dashboard</a>
+                    </li>
+
+                    <li class="list-group-item bg-transparent w-100">
+                        <a asp-controller="Product" asp-action="Index" class="text-decoration-none text-light d-block">Products</a>
+                    </li>
+                    
+                    @if (userRole == 1)
+                    {
+                        <li class="list-group-item bg-transparent">
+                            <a asp-controller="User" asp-action="Index" class="text-decoration-none text-light d-block">Users</a>
+                        </li>
+                    }
+                    @if (userRole == 2)
+                    {
+                        <li class="list-group-item bg-transparent">
+                            <a asp-controller="Album" asp-action="Index" class="text-decoration-none text-light d-block">Album API</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+            <div class="align-self-end w-100 mt-5 ">
+                <a asp-controller="User" asp-action="Logout" class="m-3 align-self-end btn btn-danger text-light">Logout</a>
+            </div>
+        </aside>
+        <div class="col-10 vh-100 overflow-scroll">
+            <div class="bg-light border-bottom p-4 d-flex align-items-center justify-content-between">
+                <h2 class="fw-bold fs-2">
+                    Welcome 
+                    @if (userRole == 1)
+                    {
+                       <span>Admin</span>
+                    }
+                    else if (userRole == 2)
+                    {
+                        <span>Manager</span>
+                    }
+                </h2>
+                
+                <a asp-controller="User" asp-action="Logout">
+                    <i class="fa fa-right-from-bracket btn btn-danger p-2"></i>
+                </a>
+            </div>
+            <main role="main" class="p-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

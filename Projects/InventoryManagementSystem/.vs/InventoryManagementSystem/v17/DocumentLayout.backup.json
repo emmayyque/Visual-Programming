@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB730B09-7B10-4F38-AE3C-6EB5A1FFDD11}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CBF3FB-D3AD-4517-81F4-E32B493EB7FA}|IMSClassLib\\IMSClassLib.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\inventorymanagementsystem\\imsclasslib\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CBF3FB-D3AD-4517-81F4-E32B493EB7FA}|IMSClassLib\\IMSClassLib.csproj|solutionrelative:imsclasslib\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:12:17.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:11:40.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:57:21.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:55:27.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAADwv+oAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:54:29.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwGAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:52:39.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:52:33.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\IMSClassLib\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "IMSClassLib\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\IMSClassLib\\InventoryManager.cs",
+              "RelativeToolTip": "IMSClassLib\\InventoryManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:46:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:46:20.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
