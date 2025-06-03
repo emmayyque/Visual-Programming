@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HomeDBModelStoreContainer" CdmEntityContainer="HomeDBEntities">
+    <EntitySetMapping Name="Furnitures">
+      <EntityTypeMapping TypeName="HomeDBModel.Furniture">
+        <MappingFragment StoreEntitySet="Furnitures">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="type_of_furniture" ColumnName="type_of_furniture" />
+          <ScalarProperty Name="color" ColumnName="color" />
+          <ScalarProperty Name="seating_capacity" ColumnName="seating_capacity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

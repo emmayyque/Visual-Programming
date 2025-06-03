@@ -1,0 +1,13 @@
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.MainForm.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.Course.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.Student.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.Properties.Resources.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.Teacher.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\bin\Debug\A1WinForms.exe.config
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\bin\Debug\A1WinForms.exe
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\bin\Debug\A1WinForms.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.exe
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A1WinForms\Assignment1\obj\Debug\A1WinForms.pdb

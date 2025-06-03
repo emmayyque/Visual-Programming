@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a8authentication\u0026authcoa\\a8authentication\u0026authcoa\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a8authentication\u0026authcoa\\a8authentication\u0026authcoa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\managerpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\managerpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a8authentication\u0026authcoa\\a8authentication\u0026authcoa\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\managerpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\managerpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\employeepanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\employeepanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\employeepanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\employeepanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\a8authentication\u0026authcoa\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEAD39-1CBF-493B-A058-4FD4DC9F1A45}|A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA.csproj|solutionrelative:a8authentication\u0026authcoa\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Web.config",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\Web.config",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Web.config",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-09T14:43:56.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.Master",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Layout.Master",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\Layout.Master",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Layout.Master",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\Layout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T14:39:22.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Register.aspx",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\Register.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Register.aspx",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T13:33:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:34:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\ManagerPanel.aspx",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\ManagerPanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\ManagerPanel.aspx",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\ManagerPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T13:34:44.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeePanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:34:21.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:33:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeePanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\EmployeePanel.aspx",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\EmployeePanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\EmployeePanel.aspx",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\EmployeePanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T13:36:40.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Home.aspx.cs",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:33:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Login.aspx.cs",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\Login.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:33:28.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "A8Authentication\u0026AuthCOA\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A8Authentication\u0026AuthCOA\\A8Authentication\u0026AuthCOA\\Register.aspx.cs",
+              "RelativeToolTip": "A8Authentication\u0026AuthCOA\\Register.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:33:09.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\data\\departmentdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\data\\departmentdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\a12webapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\a12webapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\migrations\\20241204185658_init_mig_web_apis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\migrations\\20241204185658_init_mig_web_apis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a12webapis\\a12webapis\\migrations\\20241204192529_deptentity_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF1C2D-FE98-49DE-8A48-BC9E22A69538}|A12WebAPIs\\A12WebAPIs.csproj|solutionrelative:a12webapis\\migrations\\20241204192529_deptentity_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Data\\DepartmentDataManager.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Data\\DepartmentDataManager.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Data\\DepartmentDataManager.cs",
+              "RelativeToolTip": "A12WebAPIs\\Data\\DepartmentDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:31:19.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241204192529_DeptEntity_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Migrations\\20241204192529_DeptEntity_Updated.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Migrations\\20241204192529_DeptEntity_Updated.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Migrations\\20241204192529_DeptEntity_Updated.cs",
+              "RelativeToolTip": "A12WebAPIs\\Migrations\\20241204192529_DeptEntity_Updated.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:25:29.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Repository\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "A12WebAPIs\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:58:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241204185658_init_mig_web_apis.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Migrations\\20241204185658_init_mig_web_apis.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Migrations\\20241204185658_init_mig_web_apis.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Migrations\\20241204185658_init_mig_web_apis.cs",
+              "RelativeToolTip": "A12WebAPIs\\Migrations\\20241204185658_init_mig_web_apis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:56:58.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "A12WebAPIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\appsettings.json",
+              "RelativeToolTip": "A12WebAPIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T18:52:15.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Program.cs",
+              "RelativeToolTip": "A12WebAPIs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:55:06.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "A12WebAPIs\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:08:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A12WebAPIs.csproj",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\A12WebAPIs.csproj",
+              "RelativeDocumentMoniker": "A12WebAPIs\\A12WebAPIs.csproj",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\A12WebAPIs.csproj",
+              "RelativeToolTip": "A12WebAPIs\\A12WebAPIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T19:00:08.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Models\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "A12WebAPIs\\Models\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A12WebAPIs\\A12WebAPIs\\Models\\Entities\\Department.cs",
+              "RelativeToolTip": "A12WebAPIs\\Models\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:22:19.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

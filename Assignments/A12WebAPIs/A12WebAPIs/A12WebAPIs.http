@@ -1,0 +1,6 @@
+@A12WebAPIs_HostAddress = http://localhost:5143
+
+GET {{A12WebAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

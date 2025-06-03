@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a6webformssp\\a6webformssp\\courseform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|solutionrelative:a6webformssp\\courseform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a6webformssp\\a6webformssp\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|solutionrelative:a6webformssp\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\a6webformssp\\studentform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|solutionrelative:a6webformssp\\studentform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\a6webformssp\\studentform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|solutionrelative:a6webformssp\\studentform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\a6webformssp\\teacherform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|solutionrelative:a6webformssp\\teacherform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\a6webformssp\\teacherform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|A6WebFormsSP\\A6WebFormsSP.csproj|solutionrelative:a6webformssp\\teacherform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\Home.aspx",
+              "RelativeDocumentMoniker": "A6WebFormsSP\\Home.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\Home.aspx",
+              "RelativeToolTip": "A6WebFormsSP\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T18:35:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\StudentForm.aspx.cs",
+              "RelativeDocumentMoniker": "A6WebFormsSP\\StudentForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\StudentForm.aspx.cs",
+              "RelativeToolTip": "A6WebFormsSP\\StudentForm.aspx.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:52:25.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\TeacherForm.aspx.cs",
+              "RelativeDocumentMoniker": "A6WebFormsSP\\TeacherForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\TeacherForm.aspx.cs",
+              "RelativeToolTip": "A6WebFormsSP\\TeacherForm.aspx.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:52:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\TeacherForm.aspx",
+              "RelativeDocumentMoniker": "A6WebFormsSP\\TeacherForm.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\TeacherForm.aspx",
+              "RelativeToolTip": "A6WebFormsSP\\TeacherForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T15:52:13.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\StudentForm.aspx",
+              "RelativeDocumentMoniker": "A6WebFormsSP\\StudentForm.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\StudentForm.aspx",
+              "RelativeToolTip": "A6WebFormsSP\\StudentForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T15:52:13.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\CourseForm.aspx.cs",
+              "RelativeDocumentMoniker": "A6WebFormsSP\\CourseForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A6WebFormsSP\\A6WebFormsSP\\CourseForm.aspx.cs",
+              "RelativeToolTip": "A6WebFormsSP\\CourseForm.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAnwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:50:18.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

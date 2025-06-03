@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="UniversityDB_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Mange_Sys_DB.dbo.Courses' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Courses">
+          <Key>
+            <PropertyRef Name="course_code" />
+            <PropertyRef Name="course_name" />
+            <PropertyRef Name="credit_hours" />
+            <PropertyRef Name="duration" />
+            <PropertyRef Name="course_level" />
+            <PropertyRef Name="prerequisites" />
+            <PropertyRef Name="course_fee" />
+            <PropertyRef Name="instructor_name" />
+          </Key>
+          <Property Name="course_code" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="course_name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="credit_hours" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="duration" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="course_level" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="prerequisites" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="course_fee" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="instructor_name" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Departments">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="no_of_emp" Type="int" Nullable="false" />
+          <Property Name="location" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Mange_Sys_DB.dbo.Students' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Students">
+          <Key>
+            <PropertyRef Name="first_name" />
+            <PropertyRef Name="last_name" />
+            <PropertyRef Name="father_name" />
+            <PropertyRef Name="roll_no" />
+            <PropertyRef Name="sys_id" />
+            <PropertyRef Name="address" />
+            <PropertyRef Name="date_of_birth" />
+            <PropertyRef Name="date_of_admission" />
+          </Key>
+          <Property Name="first_name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="last_name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="father_name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="roll_no" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="sys_id" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="address" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="date_of_birth" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="date_of_admission" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Mange_Sys_DB.dbo.Teachers' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Teachers">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="first_name" />
+            <PropertyRef Name="last_name" />
+            <PropertyRef Name="experience" />
+            <PropertyRef Name="type" />
+            <PropertyRef Name="address" />
+            <PropertyRef Name="date_of_birth" />
+            <PropertyRef Name="date_of_joining" />
+          </Key>
+          <Property Name="Id" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="first_name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="last_name" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="experience" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="type" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="address" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="date_of_birth" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="date_of_joining" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="UniversityDB_DBModelStoreContainer">
+          <EntitySet Name="Departments" EntityType="Self.Departments" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Courses" EntityType="Self.Courses" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[Courses].[course_code] AS [course_code], 
+[Courses].[course_name] AS [course_name], 
+[Courses].[credit_hours] AS [credit_hours], 
+[Courses].[duration] AS [duration], 
+[Courses].[course_level] AS [course_level], 
+[Courses].[prerequisites] AS [prerequisites], 
+[Courses].[course_fee] AS [course_fee], 
+[Courses].[instructor_name] AS [instructor_name]
+FROM [dbo].[Courses] AS [Courses]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="Students" EntityType="Self.Students" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[Students].[first_name] AS [first_name], 
+[Students].[last_name] AS [last_name], 
+[Students].[father_name] AS [father_name], 
+[Students].[roll_no] AS [roll_no], 
+[Students].[sys_id] AS [sys_id], 
+[Students].[address] AS [address], 
+[Students].[date_of_birth] AS [date_of_birth], 
+[Students].[date_of_admission] AS [date_of_admission]
+FROM [dbo].[Students] AS [Students]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="Teachers" EntityType="Self.Teachers" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[Teachers].[Id] AS [Id], 
+[Teachers].[first_name] AS [first_name], 
+[Teachers].[last_name] AS [last_name], 
+[Teachers].[experience] AS [experience], 
+[Teachers].[type] AS [type], 
+[Teachers].[address] AS [address], 
+[Teachers].[date_of_birth] AS [date_of_birth], 
+[Teachers].[date_of_joining] AS [date_of_joining]
+FROM [dbo].[Teachers] AS [Teachers]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="UniversityDB_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="no_of_emp" Type="Int32" Nullable="false" />
+          <Property Name="location" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Cours">
+          <Key>
+            <PropertyRef Name="course_code" />
+            <PropertyRef Name="course_name" />
+            <PropertyRef Name="credit_hours" />
+            <PropertyRef Name="duration" />
+            <PropertyRef Name="course_level" />
+            <PropertyRef Name="prerequisites" />
+            <PropertyRef Name="course_fee" />
+            <PropertyRef Name="instructor_name" />
+          </Key>
+          <Property Name="course_code" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="course_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="credit_hours" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="duration" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="course_level" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="prerequisites" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="course_fee" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="instructor_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Student">
+          <Key>
+            <PropertyRef Name="first_name" />
+            <PropertyRef Name="last_name" />
+            <PropertyRef Name="father_name" />
+            <PropertyRef Name="roll_no" />
+            <PropertyRef Name="sys_id" />
+            <PropertyRef Name="address" />
+            <PropertyRef Name="date_of_birth" />
+            <PropertyRef Name="date_of_admission" />
+          </Key>
+          <Property Name="first_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="last_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="father_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="roll_no" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="sys_id" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="date_of_birth" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="date_of_admission" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Teacher">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="first_name" />
+            <PropertyRef Name="last_name" />
+            <PropertyRef Name="experience" />
+            <PropertyRef Name="type" />
+            <PropertyRef Name="address" />
+            <PropertyRef Name="date_of_birth" />
+            <PropertyRef Name="date_of_joining" />
+          </Key>
+          <Property Name="Id" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="first_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="last_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="experience" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="type" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="date_of_birth" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="date_of_joining" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="UniversityDB" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Departments" EntityType="Self.Department" />
+          <EntitySet Name="Courses" EntityType="Self.Cours" />
+          <EntitySet Name="Students" EntityType="Self.Student" />
+          <EntitySet Name="Teachers" EntityType="Self.Teacher" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="UniversityDB_DBModelStoreContainer" CdmEntityContainer="UniversityDB">
+          <EntitySetMapping Name="Departments">
+            <EntityTypeMapping TypeName="UniversityDB_DBModel.Department">
+              <MappingFragment StoreEntitySet="Departments">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="no_of_emp" ColumnName="no_of_emp" />
+                <ScalarProperty Name="location" ColumnName="location" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Courses">
+            <EntityTypeMapping TypeName="UniversityDB_DBModel.Cours">
+              <MappingFragment StoreEntitySet="Courses">
+                <ScalarProperty Name="course_code" ColumnName="course_code" />
+                <ScalarProperty Name="course_name" ColumnName="course_name" />
+                <ScalarProperty Name="credit_hours" ColumnName="credit_hours" />
+                <ScalarProperty Name="duration" ColumnName="duration" />
+                <ScalarProperty Name="course_level" ColumnName="course_level" />
+                <ScalarProperty Name="prerequisites" ColumnName="prerequisites" />
+                <ScalarProperty Name="course_fee" ColumnName="course_fee" />
+                <ScalarProperty Name="instructor_name" ColumnName="instructor_name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Students">
+            <EntityTypeMapping TypeName="UniversityDB_DBModel.Student">
+              <MappingFragment StoreEntitySet="Students">
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="last_name" ColumnName="last_name" />
+                <ScalarProperty Name="father_name" ColumnName="father_name" />
+                <ScalarProperty Name="roll_no" ColumnName="roll_no" />
+                <ScalarProperty Name="sys_id" ColumnName="sys_id" />
+                <ScalarProperty Name="address" ColumnName="address" />
+                <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+                <ScalarProperty Name="date_of_admission" ColumnName="date_of_admission" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Teachers">
+            <EntityTypeMapping TypeName="UniversityDB_DBModel.Teacher">
+              <MappingFragment StoreEntitySet="Teachers">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="last_name" ColumnName="last_name" />
+                <ScalarProperty Name="experience" ColumnName="experience" />
+                <ScalarProperty Name="type" ColumnName="type" />
+                <ScalarProperty Name="address" ColumnName="address" />
+                <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+                <ScalarProperty Name="date_of_joining" ColumnName="date_of_joining" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

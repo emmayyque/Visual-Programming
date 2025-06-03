@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcoa\\auth\u0026authcoa\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcoa\\auth\u0026authcoa\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\employeepanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\employeepanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\employeepanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\employeepanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\managerpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\managerpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\managerpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\managerpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\auth\u0026authcoa\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89E4118-F366-41B2-B34E-2B8387346F95}|Auth\u0026AuthCOA\\Auth\u0026AuthCOA.csproj|solutionrelative:auth\u0026authcoa\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.Master",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Layout.Master",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\Layout.Master",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Layout.Master",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\Layout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-22T09:49:47.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Home.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\Home.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Home.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T20:28:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\AdminPanel.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\AdminPanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\AdminPanel.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\AdminPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T20:17:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeePanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\EmployeePanel.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:17:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\ManagerPanel.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:16:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\ManagerPanel.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\ManagerPanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\ManagerPanel.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\ManagerPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T20:16:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeePanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\EmployeePanel.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\EmployeePanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\EmployeePanel.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\EmployeePanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T20:16:24.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Register.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\Register.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Register.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T20:06:38.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\AdminPanel.aspx.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:17:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Login.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\Login.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:07:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Login.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\Login.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Login.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T20:07:42.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCOA\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCOA\\Auth\u0026AuthCOA\\Register.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCOA\\Register.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:06:41.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

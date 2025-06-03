@@ -1,0 +1,33 @@
+﻿@using A11DotNetMVC.Models.AddModels
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Add Department";
+}
+
+@model AddDepartment;
+
+<div class="container">
+    <div class="card p-3 border-1 border-secondary rounded">
+        <h2 class="display-6 text-center text-light bg-dark fw-bolder p-3">Department Form</h2>
+        <form method="post">
+            <div class="my-2 form-group">
+                <label for="name">Please Enter Deparment's Name</label>
+                <input type="text" name="name" id="name" asp-for="Name" class="form-control" />
+            </div>
+            <div class="my-2 form-group">
+                <label for="noOfEmployees">Please Enter No. of Employees</label>
+                <input type="number" name="noOfEmployees" id="noOfEmployees" asp-for="NoOfEmployees" min="0" class="form-control" />
+            </div>
+            <div class="my-2 form-group">
+                <label for="location">Please Enter Deparment's Location</label>
+                <input type="text" name="location" id="location" asp-for="Location" class="form-control" />
+            </div>
+            <div class="my-2 d-flex align-items-center justify-content-center gap-3">
+                <a class="btn btn-secondary" asp-action="Index">Back</a>
+                <button type="submit" class="btn btn-success">Add Record</button>
+            </div>
+        </form>
+    </div>
+</div>

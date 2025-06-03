@@ -1,0 +1,9 @@
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\bin\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\bin\Debug\AppProps.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

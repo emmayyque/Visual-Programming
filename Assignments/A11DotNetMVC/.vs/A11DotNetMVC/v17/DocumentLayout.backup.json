@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a11dotnetmvc\\a11dotnetmvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|solutionrelative:a11dotnetmvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a11dotnetmvc\\a11dotnetmvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|solutionrelative:a11dotnetmvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a11dotnetmvc\\a11dotnetmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|solutionrelative:a11dotnetmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a11dotnetmvc\\a11dotnetmvc\\models\\addmodels\\adddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|solutionrelative:a11dotnetmvc\\models\\addmodels\\adddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a11dotnetmvc\\a11dotnetmvc\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C9510-0277-402D-BB08-6967BD599F55}|A11DotNetMVC\\A11DotNetMVC.csproj|solutionrelative:a11dotnetmvc\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "A11DotNetMVC\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "A11DotNetMVC\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:08:50.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "A11DotNetMVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "A11DotNetMVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwH0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:05:59.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Models\\AddModels\\AddDepartment.cs",
+              "RelativeDocumentMoniker": "A11DotNetMVC\\Models\\AddModels\\AddDepartment.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Models\\AddModels\\AddDepartment.cs",
+              "RelativeToolTip": "A11DotNetMVC\\Models\\AddModels\\AddDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:53:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "A11DotNetMVC\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "A11DotNetMVC\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:37:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Models\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "A11DotNetMVC\\Models\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A11DotNetMVC\\A11DotNetMVC\\Models\\Entities\\Department.cs",
+              "RelativeToolTip": "A11DotNetMVC\\Models\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:48:57.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

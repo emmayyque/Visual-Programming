@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Departments>
+  <Department Id="1">
+    <Name>Computer Science</Name>
+    <NoOfEmployees>25</NoOfEmployees>
+    <Location>Ghazali Block</Location>
+  </Department>
+  <Department Id="2">
+    <Name>Software Engineering</Name>
+    <NoOfEmployees>35</NoOfEmployees>
+    <Location>Ghazali Block</Location>
+  </Department>
+  <Department Id="3">
+    <Name>Management Sciences</Name>
+    <NoOfEmployees>55</NoOfEmployees>
+    <Location>Ibn-e-Khaldun Block</Location>
+  </Department>
+  <Department Id="4">
+    <Name>Foreign Languages</Name>
+    <NoOfEmployees>75</NoOfEmployees>
+    <Location>Rumi Block</Location>
+  </Department>
+</Departments>

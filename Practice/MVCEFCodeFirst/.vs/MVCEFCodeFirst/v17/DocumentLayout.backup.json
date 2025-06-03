@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\models\\addmodels\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\models\\addmodels\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\migrations\\20241126052620_init_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\migrations\\20241126052620_init_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcefcodefirst\\mvcefcodefirst\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F771E2-8BEB-4C66-B0B5-B4C68F844B25}|MVCEFCodeFirst\\MVCEFCodeFirst.csproj|solutionrelative:mvcefcodefirst\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "MVCEFCodeFirst\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:23:27.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVCEFCodeFirst\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T06:50:37.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "MVCEFCodeFirst\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T06:28:14.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCEFCodeFirst\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:18:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCEFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T06:13:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Models\\AddModels\\AddStudent.cs",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Models\\AddModels\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Models\\AddModels\\AddStudent.cs",
+              "RelativeToolTip": "MVCEFCodeFirst\\Models\\AddModels\\AddStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:00:04.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "MVCEFCodeFirst\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:57:53.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\appsettings.json",
+              "RelativeToolTip": "MVCEFCodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T05:15:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241126052620_init_mig.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Migrations\\20241126052620_init_mig.cs",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Migrations\\20241126052620_init_mig.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Migrations\\20241126052620_init_mig.cs",
+              "RelativeToolTip": "MVCEFCodeFirst\\Migrations\\20241126052620_init_mig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:26:21.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Program.cs",
+              "RelativeToolTip": "MVCEFCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:13:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVCEFCodeFirst\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCEFCodeFirst\\MVCEFCodeFirst\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVCEFCodeFirst\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:09:37.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

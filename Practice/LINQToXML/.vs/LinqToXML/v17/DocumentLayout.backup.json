@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5682A4-91D1-4A64-93E9-BB03A10898A7}|LinqToXML\\LINQToXML.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtoxml\\linqtoxml\\employeesform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5682A4-91D1-4A64-93E9-BB03A10898A7}|LinqToXML\\LINQToXML.csproj|solutionrelative:linqtoxml\\employeesform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5682A4-91D1-4A64-93E9-BB03A10898A7}|LinqToXML\\LINQToXML.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtoxml\\linqtoxml\\employeesform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB5682A4-91D1-4A64-93E9-BB03A10898A7}|LinqToXML\\LINQToXML.csproj|solutionrelative:linqtoxml\\employeesform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5682A4-91D1-4A64-93E9-BB03A10898A7}|LinqToXML\\LINQToXML.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtoxml\\linqtoxml\\employees.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB5682A4-91D1-4A64-93E9-BB03A10898A7}|LinqToXML\\LINQToXML.csproj|solutionrelative:linqtoxml\\employees.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.xml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\LINQToXML\\Employees.xml",
+              "RelativeDocumentMoniker": "LINQToXML\\Employees.xml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\LINQToXML\\Employees.xml",
+              "RelativeToolTip": "LINQToXML\\Employees.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-13T14:45:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\LINQToXML\\EmployeesForm.aspx.cs",
+              "RelativeDocumentMoniker": "LINQToXML\\EmployeesForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\LINQToXML\\EmployeesForm.aspx.cs",
+              "RelativeToolTip": "LINQToXML\\EmployeesForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:22:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\LINQToXML\\EmployeesForm.aspx",
+              "RelativeDocumentMoniker": "LINQToXML\\EmployeesForm.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToXML\\LINQToXML\\EmployeesForm.aspx",
+              "RelativeToolTip": "LINQToXML\\EmployeesForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T14:18:47.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

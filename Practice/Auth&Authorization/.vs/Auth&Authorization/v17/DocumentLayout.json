@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026Authorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1372603-56E8-4DE0-A98B-02A7B6877B04}|Auth\u0026Authorization\\Auth\u0026Authorization.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authorization\\auth\u0026authorization\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1372603-56E8-4DE0-A98B-02A7B6877B04}|Auth\u0026Authorization\\Auth\u0026Authorization.csproj|solutionrelative:auth\u0026authorization\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026Authorization\\Auth\u0026Authorization\\Register.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026Authorization\\Register.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026Authorization\\Auth\u0026Authorization\\Register.aspx*",
+              "RelativeToolTip": "Auth\u0026Authorization\\Register.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T07:33:56.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

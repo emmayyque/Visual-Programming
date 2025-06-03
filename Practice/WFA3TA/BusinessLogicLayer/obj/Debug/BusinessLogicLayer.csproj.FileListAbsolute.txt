@@ -1,0 +1,11 @@
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\bin\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\bin\Debug\AppProps.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

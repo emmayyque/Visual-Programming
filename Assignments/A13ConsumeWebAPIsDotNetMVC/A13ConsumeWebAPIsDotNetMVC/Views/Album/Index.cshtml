@@ -1,0 +1,39 @@
+﻿@using A13ConsumeWebAPIsDotNetMVC.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Album View";
+}
+
+@model List<Album>
+
+<div class="container">
+    <div class="card border-1">
+        <h1 class="display-6 bg-dark text-light fw-bolder text-center p-3 my-0">Albums</h1>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Album ID</th>
+                    <th>Title</th>
+                    <th>User ID</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var album in Model)
+                {
+                    <tr>
+                        <th>@album.Id</th>
+                        <th>@album.Title</th>
+                        <th>@album.UserId</th>
+                        <td class="d-flex align-items-center justify-content-center gap-2">
+                            <a class="btn btn-primary">Edit</a> |
+                            <a class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDMnOXGl00U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Ali Khalil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

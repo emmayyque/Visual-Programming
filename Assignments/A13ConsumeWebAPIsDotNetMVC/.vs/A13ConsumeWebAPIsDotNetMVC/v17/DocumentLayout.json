@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A13ConsumeWebAPIsDotNetMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEC77C9-15B1-4795-8600-E756BEDBE872}|A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a13consumewebapisdotnetmvc\\a13consumewebapisdotnetmvc\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEC77C9-15B1-4795-8600-E756BEDBE872}|A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC.csproj|solutionrelative:a13consumewebapisdotnetmvc\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEC77C9-15B1-4795-8600-E756BEDBE872}|A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\a13consumewebapisdotnetmvc\\a13consumewebapisdotnetmvc\\models\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEC77C9-15B1-4795-8600-E756BEDBE872}|A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC.csproj|solutionrelative:a13consumewebapisdotnetmvc\\models\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "A13ConsumeWebAPIsDotNetMVC\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "A13ConsumeWebAPIsDotNetMVC\\Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:42:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC\\Models\\Entities\\Album.cs",
+              "RelativeDocumentMoniker": "A13ConsumeWebAPIsDotNetMVC\\Models\\Entities\\Album.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\A13ConsumeWebAPIsDotNetMVC\\A13ConsumeWebAPIsDotNetMVC\\Models\\Entities\\Album.cs",
+              "RelativeToolTip": "A13ConsumeWebAPIsDotNetMVC\\Models\\Entities\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:42:03.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

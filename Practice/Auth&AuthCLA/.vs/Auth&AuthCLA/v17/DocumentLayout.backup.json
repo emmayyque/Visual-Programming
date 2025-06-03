@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcla\\auth\u0026authcla\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|solutionrelative:auth\u0026authcla\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcla\\auth\u0026authcla\\employeepanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|solutionrelative:auth\u0026authcla\\employeepanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcla\\auth\u0026authcla\\employeepanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|solutionrelative:auth\u0026authcla\\employeepanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcla\\auth\u0026authcla\\managerpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|solutionrelative:auth\u0026authcla\\managerpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcla\\auth\u0026authcla\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|solutionrelative:auth\u0026authcla\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\auth\u0026authcla\\auth\u0026authcla\\managerpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6FEED49C-B9A1-4A80-9D22-A112F2F59137}|Auth\u0026AuthCLA\\Auth\u0026AuthCLA.csproj|solutionrelative:auth\u0026authcla\\managerpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeePanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\EmployeePanel.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCLA\\EmployeePanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\EmployeePanel.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCLA\\EmployeePanel.aspx.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:40:30.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeePanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\EmployeePanel.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCLA\\EmployeePanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\EmployeePanel.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCLA\\EmployeePanel.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T19:39:56.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\AdminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCLA\\AdminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\AdminPanel.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCLA\\AdminPanel.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAArwE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:19:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\ManagerPanel.aspx.cs",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCLA\\ManagerPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\ManagerPanel.aspx.cs",
+              "RelativeToolTip": "Auth\u0026AuthCLA\\ManagerPanel.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:18:42.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\AdminPanel.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCLA\\AdminPanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\AdminPanel.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCLA\\AdminPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T19:18:37.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\ManagerPanel.aspx",
+              "RelativeDocumentMoniker": "Auth\u0026AuthCLA\\ManagerPanel.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Auth\u0026AuthCLA\\Auth\u0026AuthCLA\\ManagerPanel.aspx",
+              "RelativeToolTip": "Auth\u0026AuthCLA\\ManagerPanel.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T19:18:35.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

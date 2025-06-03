@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF81547-1BFE-4A28-96F9-F6F239B1BB85}|PracticeProject\\StrProThreeTier.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\practiceproject\\userform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6BF81547-1BFE-4A28-96F9-F6F239B1BB85}|PracticeProject\\StrProThreeTier.csproj|solutionrelative:practiceproject\\userform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CAB6-EA11-47D7-9F67-311B80FC3EEF}|..\\WFA3TA\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\wfa3ta\\dataaccesslayer\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF81547-1BFE-4A28-96F9-F6F239B1BB85}|PracticeProject\\StrProThreeTier.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\strprothreetier\\practiceproject\\userform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF81547-1BFE-4A28-96F9-F6F239B1BB85}|PracticeProject\\StrProThreeTier.csproj|solutionrelative:practiceproject\\userform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CAB6-EA11-47D7-9F67-311B80FC3EEF}|..\\WFA3TA\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\wfa3ta\\dataaccesslayer\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EC486-B820-45B2-A826-CA07A75D2EE7}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\businesslogiclayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7EC486-B820-45B2-A826-CA07A75D2EE7}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\BusinessLogicLayer\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserBLL.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\BusinessLogicLayer\\UserBLL.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:32:21.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFA3TA\\DataAccessLayer\\UserDAL.cs",
+              "RelativeDocumentMoniker": "..\\WFA3TA\\DataAccessLayer\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFA3TA\\DataAccessLayer\\UserDAL.cs",
+              "RelativeToolTip": "..\\WFA3TA\\DataAccessLayer\\UserDAL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:30:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbConn.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFA3TA\\DataAccessLayer\\DbConn.cs",
+              "RelativeDocumentMoniker": "..\\WFA3TA\\DataAccessLayer\\DbConn.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFA3TA\\DataAccessLayer\\DbConn.cs",
+              "RelativeToolTip": "..\\WFA3TA\\DataAccessLayer\\DbConn.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:26:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\PracticeProject\\UserForm.aspx.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\UserForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\PracticeProject\\UserForm.aspx.cs",
+              "RelativeToolTip": "PracticeProject\\UserForm.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:58:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\PracticeProject\\UserForm.aspx",
+              "RelativeDocumentMoniker": "PracticeProject\\UserForm.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\StrProThreeTier\\PracticeProject\\UserForm.aspx",
+              "RelativeToolTip": "PracticeProject\\UserForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-23T14:58:11.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

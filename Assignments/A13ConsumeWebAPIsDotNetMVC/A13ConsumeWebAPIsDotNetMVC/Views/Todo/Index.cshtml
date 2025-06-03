@@ -1,0 +1,39 @@
+﻿@using A13ConsumeWebAPIsDotNetMVC.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Todos View";
+}
+
+@model List<Todo>
+
+<div class="container">
+    <h1 class="display-6 bg-dark text-light fw-bolder text-center p-3 my-0">Todos</h1>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Todo ID</th>
+                <th>Title</th>
+                <th>Completed</th>
+                <th>User ID</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var todo in Model)
+            {
+                <tr>
+                    <th>@todo.Id</th>
+                    <th>@todo.Title</th>
+                    <th>@todo.Completed</th>
+                    <th>@todo.UserId</th>
+                    <td class="d-flex align-items-center justify-content-center gap-2">
+                        <a class="btn btn-primary">Edit</a> |
+                        <a class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F100927-3D9B-4DB9-B6BF-07AE5B01D323}|LINQToSQL\\LINQToSQL.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToSQL\\linqtosql\\employees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F100927-3D9B-4DB9-B6BF-07AE5B01D323}|LINQToSQL\\LINQToSQL.csproj|solutionrelative:linqtosql\\employees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F100927-3D9B-4DB9-B6BF-07AE5B01D323}|LINQToSQL\\LINQToSQL.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtosql\\linqtosql\\employees.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F100927-3D9B-4DB9-B6BF-07AE5B01D323}|LINQToSQL\\LINQToSQL.csproj|solutionrelative:linqtosql\\employees.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToSQL\\LINQToSQL\\Employees.aspx.cs",
+              "RelativeDocumentMoniker": "LINQToSQL\\Employees.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToSQL\\LINQToSQL\\Employees.aspx.cs",
+              "RelativeToolTip": "LINQToSQL\\Employees.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:05:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToSQL\\LINQToSQL\\Employees.aspx",
+              "RelativeDocumentMoniker": "LINQToSQL\\Employees.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LINQToSQL\\LINQToSQL\\Employees.aspx",
+              "RelativeToolTip": "LINQToSQL\\Employees.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-29T17:05:40.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

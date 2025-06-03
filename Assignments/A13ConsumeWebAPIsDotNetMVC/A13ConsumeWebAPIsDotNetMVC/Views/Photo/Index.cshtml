@@ -1,0 +1,41 @@
+﻿@using A13ConsumeWebAPIsDotNetMVC.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Photo View";
+}
+
+@model List<Photo>
+
+<div class="container">
+    <h1 class="display-6 bg-dark text-light fw-bolder text-center p-3 my-0">Photos</h1>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Photo ID</th>
+                <th>Title</th>
+                <th>URL</th>
+                <th>Thumbnail URL</th>
+                <th>Album ID</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var photo in Model)
+            {
+                <tr>
+                    <th>@photo.Id</th>
+                    <th>@photo.Title</th>
+                    <th>@photo.Url</th>
+                    <th>@photo.ThumbnailUrl</th>
+                    <th>@photo.AlbumId</th>
+                    <td class="d-flex align-items-center justify-content-center gap-2">
+                        <a class="btn btn-primary">Edit</a> |
+                        <a class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

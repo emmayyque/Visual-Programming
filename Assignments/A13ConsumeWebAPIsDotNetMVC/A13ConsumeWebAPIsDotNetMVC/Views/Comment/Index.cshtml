@@ -1,0 +1,42 @@
+﻿@using A13ConsumeWebAPIsDotNetMVC.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Comments View";
+}
+
+@model List<Comment>
+
+<div class="container">
+    <h1 class="display-6 bg-dark text-light fw-bolder text-center p-3 my-0">Comments</h1>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Comment ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Body</th>
+                <th>Post ID</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var comment in Model)
+            {
+                <tr>
+                    <th>@comment.Id</th>
+                    <th>@comment.Name</th>
+                    <th>@comment.Email</th>
+                    <th>@comment.Body</th>
+                    <th>@comment.PostId</th>
+                    <td class="d-flex align-items-center justify-content-center gap-2">
+                        <a class="btn btn-primary">Edit</a> |
+                        <a class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

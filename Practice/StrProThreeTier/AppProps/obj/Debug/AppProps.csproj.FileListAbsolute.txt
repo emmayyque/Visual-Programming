@@ -1,0 +1,12 @@
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\AppProps\bin\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\AppProps\bin\Debug\AppProps.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\AppProps\obj\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\WFA3TA\AppProps\obj\Debug\AppProps.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\StrProThreeTier\AppProps\bin\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\StrProThreeTier\AppProps\bin\Debug\AppProps.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\StrProThreeTier\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\StrProThreeTier\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\StrProThreeTier\AppProps\obj\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\StrProThreeTier\AppProps\obj\Debug\AppProps.pdb

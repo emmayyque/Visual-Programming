@@ -1,0 +1,36 @@
+﻿@using ConsumeWebAPIsByLinqToJson.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Albums Restfull API";
+}
+
+@model List<Album>
+<div class="container">
+    <h1>Albums</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>User Id</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var album in Model)
+            {
+                <tr>
+                    <td>@album.Id</td>
+                    <td>@album.Title</td>
+                    <td>@album.UserId</td>
+                    <td class="d-flex align-items-center justify-content-center gap-2">
+                        <a class="btn btn-primary">Edit</a> |
+                        <a class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

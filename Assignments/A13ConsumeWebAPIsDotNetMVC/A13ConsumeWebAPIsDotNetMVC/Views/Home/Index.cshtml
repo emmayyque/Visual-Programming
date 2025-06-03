@@ -1,0 +1,20 @@
+﻿@using A13ConsumeWebAPIsDotNetMVC.Controllers
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<EndPoint>
+
+<div class="container">
+    <h1 class="display-5 fw-bolder text-center mt-5 mb-3">Consuming JsonPlaceholder FAKE Rest APIs</h1>
+    <div class="d-flex flex-wrap align-items-stretch justify-content-center gap-3 mt-4">
+        @foreach (var endpoint in Model)
+        {
+            <div class="card shadow-sm border-1 rounded p-3 w-25">
+                <h2 class="display-7 text-center fw-bolder">@endpoint.Name</h2>
+                <p>Click to view the JsonPlaceholders's @endpoint.Name's API Data</p>
+                <a class="btn btn-primary" asp-controller="@endpoint.Controller" asp-action="Index">Click to View</a>
+            </div>
+        }
+    </div>
+</div>

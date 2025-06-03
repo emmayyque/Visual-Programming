@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisdotnetmvc\\consumewebapisdotnetmvc\\views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|solutionrelative:consumewebapisdotnetmvc\\views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisdotnetmvc\\consumewebapisdotnetmvc\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|solutionrelative:consumewebapisdotnetmvc\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisdotnetmvc\\consumewebapisdotnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|solutionrelative:consumewebapisdotnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisdotnetmvc\\consumewebapisdotnetmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C7F065-CEA9-4FEE-A15B-0792587E4EB8}|ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC.csproj|solutionrelative:consumewebapisdotnetmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Views\\Album\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsDotNetMVC\\Views\\Album\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Views\\Album\\Index.cshtml",
+              "RelativeToolTip": "ConsumeWebAPIsDotNetMVC\\Views\\Album\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T17:53:52.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsDotNetMVC\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ConsumeWebAPIsDotNetMVC\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:53:20.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsDotNetMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ConsumeWebAPIsDotNetMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:37:46.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsDotNetMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsDotNetMVC\\ConsumeWebAPIsDotNetMVC\\Models\\User.cs",
+              "RelativeToolTip": "ConsumeWebAPIsDotNetMVC\\Models\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:37:35.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

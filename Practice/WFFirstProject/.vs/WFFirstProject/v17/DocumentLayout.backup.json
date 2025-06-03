@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|WFFirstProject\\WFFirstProject.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\wffirstproject\\wffirstproject\\userform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|WFFirstProject\\WFFirstProject.csproj|solutionrelative:wffirstproject\\userform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|WFFirstProject\\WFFirstProject.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\wffirstproject\\userform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|WFFirstProject\\WFFirstProject.csproj|solutionrelative:wffirstproject\\userform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|WFFirstProject\\WFFirstProject.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\wffirstproject\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1B4AD-5527-45A7-B26C-97CCBC66FBEC}|WFFirstProject\\WFFirstProject.csproj|solutionrelative:wffirstproject\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1139D6-8CE0-4701-8D3D-054913524702}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\dataaccesslayer\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1139D6-8CE0-4701-8D3D-054913524702}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1139D6-8CE0-4701-8D3D-054913524702}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\dataaccesslayer\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1139D6-8CE0-4701-8D3D-054913524702}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5970738-6DDA-46D1-90F8-032A301E7E7F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\businesslogiclayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5970738-6DDA-46D1-90F8-032A301E7E7F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\DataAccessLayer\\UserDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\DataAccessLayer\\UserDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:03:15.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbConn.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\DataAccessLayer\\DbConn.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbConn.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\DataAccessLayer\\DbConn.cs",
+              "RelativeToolTip": "DataAccessLayer\\DbConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:51:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\BusinessLogicLayer\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserBLL.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\BusinessLogicLayer\\UserBLL.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:50:15.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\WFFirstProject\\UserForm.aspx.cs",
+              "RelativeDocumentMoniker": "WFFirstProject\\UserForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\WFFirstProject\\UserForm.aspx.cs",
+              "RelativeToolTip": "WFFirstProject\\UserForm.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:52:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConn.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\WFFirstProject\\DbConn.cs",
+              "RelativeDocumentMoniker": "WFFirstProject\\DbConn.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\WFFirstProject\\DbConn.cs",
+              "RelativeToolTip": "WFFirstProject\\DbConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:37:31.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\WFFirstProject\\UserForm.aspx",
+              "RelativeDocumentMoniker": "WFFirstProject\\UserForm.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\WFFirstProject\\WFFirstProject\\UserForm.aspx",
+              "RelativeToolTip": "WFFirstProject\\UserForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T15:52:12.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User Id="1">
+    <Name>Ali</Name>
+    <Email>ali@gmail.com</Email>
+    <Username>ali123</Username>
+    <Password>12345</Password>
+    <Role>2</Role>
+  </User>
+  <User Id="2">
+    <Name>Muhammad Jawad Khalil</Name>
+    <Email>muhammadjawadkhalil@gmail.com</Email>
+    <Username>emmjyyque</Username>
+    <Password>12345</Password>
+    <Role>1</Role>
+  </User>
+  <User Id="3">
+    <Name>Muhammad Ahmed</Name>
+    <Email>muhammadahmed@gmail.com</Email>
+    <Username>ahmedjutt123</Username>
+    <Password>12345</Password>
+    <Role>2</Role>
+  </User>
+  <User Id="6">
+    <Name>Jawad ul Hassan</Name>
+    <Email>jawadulhassan@gmail.com</Email>
+    <Username>jawad123</Username>
+    <Password>123</Password>
+    <Role>3</Role>
+  </User>
+  <User Id="7">
+    <Name>Muhammad Dayan Uzair</Name>
+    <Email>mdayanuzair@gmail.com</Email>
+    <Username>dayan123</Username>
+    <Password>12345</Password>
+    <Role>3</Role>
+  </User>
+</Users>

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\assignment2\\assignment1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\assignment1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660178B0-B1EC-4D65-BCAB-047CAF09D5EE}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Assignment1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\MainForm.cs",
+              "RelativeToolTip": "Assignment1\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:48:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Assignment1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment1\\Assignment1\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\Assignment1\\Assignment1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:48:08.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Teacher.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Teacher.cs",
+              "RelativeToolTip": "Assignment1\\Teacher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:20:37.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Teacher.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment1\\Assignment1\\Teacher.cs [Design]",
+              "RelativeToolTip": "..\\Assignment1\\Assignment1\\Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:20:33.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Course.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Course.cs",
+              "RelativeToolTip": "Assignment1\\Course.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:34:51.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Course.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment1\\Assignment1\\Course.cs [Design]",
+              "RelativeToolTip": "..\\Assignment1\\Assignment1\\Course.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:32:20.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Student.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Student.cs",
+              "RelativeToolTip": "Assignment1\\Student.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:12:11.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment2\\Assignment1\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Student.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\Assignment1\\Assignment1\\Student.cs [Design]",
+              "RelativeToolTip": "..\\Assignment1\\Assignment1\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:12:07.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

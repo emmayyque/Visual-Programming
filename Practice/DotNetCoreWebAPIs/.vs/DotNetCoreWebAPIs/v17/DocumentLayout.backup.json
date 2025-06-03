@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\data\\productdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\data\\productdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\dotnetcorewebapis\\dotnetcorewebapis\\dotnetcorewebapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6307F2B4-1C8A-45E2-92A4-B5F52D9628B9}|DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj|solutionrelative:dotnetcorewebapis\\dotnetcorewebapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwFEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:27:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Data\\ProductDataManager.cs",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\Data\\ProductDataManager.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Data\\ProductDataManager.cs",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\Data\\ProductDataManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:12:37.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Program.cs",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:54:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\appsettings.json",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T15:59:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:59:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\Repository\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:54:33.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DotNetCoreWebAPIs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj",
+              "RelativeDocumentMoniker": "DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj*",
+              "RelativeToolTip": "DotNetCoreWebAPIs\\DotNetCoreWebAPIs.csproj*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T15:53:55.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@using ConsumeWebAPIsByLinqToJson.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Comments Restfull API";
+}
+
+@model List<Comment>
+<div class="container">
+    <h1>Comments</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Body</th>
+                <th>Post Id</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var comment in Model)
+            {
+                <tr>
+                    <td>@comment.Id</td>
+                    <td>@comment.Name</td>
+                    <td>@comment.Email</td>
+                    <td>@comment.Body</td>
+                    <td>@comment.PostId</td>
+                    <td class="d-flex align-items-center justify-content-center gap-2">
+                        <a class="btn btn-primary">Edit</a> |
+                        <a class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

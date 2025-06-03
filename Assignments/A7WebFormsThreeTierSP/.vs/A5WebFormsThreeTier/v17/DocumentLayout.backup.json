@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\A5WebFormsThreeTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A888B11-F7BD-4B15-9B6B-4F6BD85DAFDF}|A5WebFormsThreeTier\\A5WebFormsThreeTier.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\a5webformsthreetier\\a5webformsthreetier\\courseform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A888B11-F7BD-4B15-9B6B-4F6BD85DAFDF}|A5WebFormsThreeTier\\A5WebFormsThreeTier.csproj|solutionrelative:a5webformsthreetier\\courseform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\A5WebFormsThreeTier\\A5WebFormsThreeTier\\CourseForm.aspx.cs",
+              "RelativeDocumentMoniker": "A5WebFormsThreeTier\\CourseForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\A5WebFormsThreeTier\\A5WebFormsThreeTier\\CourseForm.aspx.cs",
+              "RelativeToolTip": "A5WebFormsThreeTier\\CourseForm.aspx.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwFwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:28:50.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

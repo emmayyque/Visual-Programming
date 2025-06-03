@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisbylinqtojson\\consumewebapisbylinqtojson\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|solutionrelative:consumewebapisbylinqtojson\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisbylinqtojson\\consumewebapisbylinqtojson\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|solutionrelative:consumewebapisbylinqtojson\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisbylinqtojson\\consumewebapisbylinqtojson\\models\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|solutionrelative:consumewebapisbylinqtojson\\models\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisbylinqtojson\\consumewebapisbylinqtojson\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|solutionrelative:consumewebapisbylinqtojson\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\consumewebapisbylinqtojson\\consumewebapisbylinqtojson\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA44D680-2AB2-4E10-BE08-70F3D68A19B6}|ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson.csproj|solutionrelative:consumewebapisbylinqtojson\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsByLinqToJson\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConsumeWebAPIsByLinqToJson\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:54:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsByLinqToJson\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "ConsumeWebAPIsByLinqToJson\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:51:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Models\\Entities\\Todo.cs",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsByLinqToJson\\Models\\Entities\\Todo.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Models\\Entities\\Todo.cs",
+              "RelativeToolTip": "ConsumeWebAPIsByLinqToJson\\Models\\Entities\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:47:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsByLinqToJson\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "ConsumeWebAPIsByLinqToJson\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:46:06.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ConsumeWebAPIsByLinqToJson\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\ConsumeWebAPIsByLinqToJson\\ConsumeWebAPIsByLinqToJson\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ConsumeWebAPIsByLinqToJson\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:38:31.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

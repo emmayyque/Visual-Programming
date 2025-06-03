@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\mvcdotnetwebapp\\mvcdotnetwebapp\\migrations\\20241214095903_initial_migration_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8F0FB-D340-4179-9DE9-51C68313A5B5}|MVCDotNETWebApp\\MVCDotNETWebApp.csproj|solutionrelative:mvcdotnetwebapp\\migrations\\20241214095903_initial_migration_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVCDotNETWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABIAAABAzczMzAwswCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T19:50:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MVCDotNETWebApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:54:03.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241214095903_Initial_migration_products.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Migrations\\20241214095903_Initial_migration_products.cs",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Migrations\\20241214095903_Initial_migration_products.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Migrations\\20241214095903_Initial_migration_products.cs",
+              "RelativeToolTip": "MVCDotNETWebApp\\Migrations\\20241214095903_Initial_migration_products.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:22:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCDotNETWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFYAAADAmJmZmdkgwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:55:27.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\appsettings.json",
+              "RelativeToolTip": "MVCDotNETWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T11:23:36.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVCDotNETWebApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:20:56.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Program.cs",
+              "RelativeToolTip": "MVCDotNETWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:23:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCDotNETWebApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\MVCDotNETWebApp\\MVCDotNETWebApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MVCDotNETWebApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAQNDMzM5MwwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T10:55:23.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

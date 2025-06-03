@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\models\\datamanager\\studentdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\models\\datamanager\\studentdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\restfullwebapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\restfullwebapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Migrations\\20241204065307_init_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestFullWebAPIs\\Migrations\\20241204065307_init_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\restfullwebapis\\restfullwebapis\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9586E83-CCFE-4AB8-98B7-754D7ADFF020}|RestFullWebAPIs\\RestFullWebAPIs.csproj|solutionrelative:restfullwebapis\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:48:30.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Models\\DataManager\\StudentDataManager.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Models\\DataManager\\StudentDataManager.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Models\\DataManager\\StudentDataManager.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Models\\DataManager\\StudentDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:02:53.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Repository\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:56:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241204065307_init_migration.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Migrations\\20241204065307_init_migration.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Migrations\\20241204065307_init_migration.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Migrations\\20241204065307_init_migration.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Migrations\\20241204065307_init_migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:53:07.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Program.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:24:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\appsettings.json",
+              "RelativeToolTip": "RestFullWebAPIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T06:23:32.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:11:00.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestFullWebAPIs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\RestFullWebAPIs.csproj",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\RestFullWebAPIs.csproj",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\RestFullWebAPIs.csproj",
+              "RelativeToolTip": "RestFullWebAPIs\\RestFullWebAPIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T06:06:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "RestFullWebAPIs\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\RestFullWebAPIs\\RestFullWebAPIs\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "RestFullWebAPIs\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:07:39.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

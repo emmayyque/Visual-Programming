@@ -1,0 +1,17 @@
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.ProductForm.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.Properties.Resources.resources
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\A7StockManSys.exe.config
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\A7StockManSys.exe
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\A7StockManSys.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\AppProps.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\DataAccessLayer.dll
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\AppProps.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\bin\Debug\DataAccessLayer.pdb
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockM.D176D883.Up2Date
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.exe
+C:\Users\Muhammad Ali Khalil\source\repos\BSVP\A7StockManSys\A7StockManSys\obj\Debug\A7StockManSys.pdb

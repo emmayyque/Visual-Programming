@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34594328-DF49-4146-9CC2-853A99990748}|LinqToObject\\LinqToObject.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtoobject\\linqtoobject\\productform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34594328-DF49-4146-9CC2-853A99990748}|LinqToObject\\LinqToObject.csproj|solutionrelative:linqtoobject\\productform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34594328-DF49-4146-9CC2-853A99990748}|LinqToObject\\LinqToObject.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtoobject\\linqtoobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34594328-DF49-4146-9CC2-853A99990748}|LinqToObject\\LinqToObject.csproj|solutionrelative:linqtoobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34594328-DF49-4146-9CC2-853A99990748}|LinqToObject\\LinqToObject.csproj|c:\\users\\muhammad ali khalil\\source\\repos\\bsvp\\linqtoobject\\linqtoobject\\productform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34594328-DF49-4146-9CC2-853A99990748}|LinqToObject\\LinqToObject.csproj|solutionrelative:linqtoobject\\productform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\LinqToObject\\ProductForm.aspx.cs",
+              "RelativeDocumentMoniker": "LinqToObject\\ProductForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\LinqToObject\\ProductForm.aspx.cs",
+              "RelativeToolTip": "LinqToObject\\ProductForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:42:42.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\LinqToObject\\Product.cs",
+              "RelativeDocumentMoniker": "LinqToObject\\Product.cs",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\LinqToObject\\Product.cs",
+              "RelativeToolTip": "LinqToObject\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\LinqToObject\\ProductForm.aspx",
+              "RelativeDocumentMoniker": "LinqToObject\\ProductForm.aspx",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSVP\\LinqToObject\\LinqToObject\\ProductForm.aspx",
+              "RelativeToolTip": "LinqToObject\\ProductForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:24:09.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
